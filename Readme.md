@@ -6,3 +6,5 @@
 6. `repository area`
 7. `git status`
 8. `git add <file name>`
+9. `git commit`
+10. `git log`
