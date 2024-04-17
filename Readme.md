@@ -8,3 +8,6 @@
 8. `git add <file name>`
 9. `git commit`
 10. `git log`
+11. `git rm --cached <file name>`
+12. `git restore --staged <file name>`
+13. `git restore <file name>`
