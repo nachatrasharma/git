@@ -17,5 +17,4 @@
 17. `git remote add origin https://github.io/nachatrasharma/git.git`
 18. `git remote rm <name of the remote>`
 19. `git pull origin master`
-20. `merge conflicts are common scenarios`
     `merge conflicts can occur over time`
